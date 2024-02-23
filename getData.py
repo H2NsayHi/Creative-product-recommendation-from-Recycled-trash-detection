@@ -19,7 +19,7 @@ class GetInputArray():
             self.input_array[_ - 1] += 1
 
             
-        self.input_array = np.array(self.input_array)
+        self.numpy_input_array = np.array(self.input_array)
 
 class GetMatrixCompare():
     def __init__(self, json_path):
