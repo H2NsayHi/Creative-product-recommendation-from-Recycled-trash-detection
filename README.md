@@ -26,7 +26,7 @@ Explain how to install the project or any prerequisites needed.
 1. Clone the repository:
 
     ```bash
-    git clone[ https://github.com/yourusername/yourrepository.git](https://github.com/H2NsayHi/Creative-product-recommendation-from-Recycled-trash-detection-)
+    git clone https://github.com/H2NsayHi/Creative-product-recommendation-from-Recycled-trash-detection
     ```
 
 2. Navigate to the project directory:
