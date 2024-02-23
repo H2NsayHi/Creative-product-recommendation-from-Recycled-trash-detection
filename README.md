@@ -1,7 +1,6 @@
-# Creative-product-recommendation-from-Recycled-trash-detection
+# Creative product recommendation from Recycled trash detection | GDSC Hackathon Vietnam 2024
 
 Brief description of what the project does.
-## This the the solution for GDSC Hackathon 2024
 
 ## Introduction
 
