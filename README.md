@@ -10,16 +10,10 @@ This project is the submission for the GDSC Hackathon Vietnam 2024. The applicat
 Brief introduction to the project. You can embed a video here showcasing the project in action or providing an overview.
 
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
-Explain how to install the project or any prerequisites needed.
+Download pre-trained yolov8 here: 
 
 ## Usage
 
@@ -51,7 +45,7 @@ Explain how to install the project or any prerequisites needed.
 
 ## Contributing
 
-Explain how others can contribute to the project. Include guidelines for pull requests and code formatting.
+
 
 ## License
 
