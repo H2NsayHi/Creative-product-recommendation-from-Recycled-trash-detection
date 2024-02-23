@@ -32,7 +32,7 @@ Explain how to install the project or any prerequisites needed.
 2. Navigate to the project directory:
 
     ```bash
-    cd yourrepository
+    cd Creative-product-recommendation-from-Recycled-trash-detection
     ```
 
 3. Install the required dependencies:
