@@ -6,7 +6,7 @@ import json
 class GetInputArray():
     def __init__(self, image_path, num_of_ingredient):
         self.image_path = image_path
-        self.model_path = "best_11.pt"
+        self.model_path = "best.pt"
         self.model = YOLO(self.model_path)
 
 
