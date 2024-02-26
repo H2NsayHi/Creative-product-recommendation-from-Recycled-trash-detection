@@ -36,7 +36,7 @@ def imgProcessing(image):
             col2.write(f"{materials.get(i + 1, 'Unknown Material')}")
         
         adjust = st.text_input("Confirm the quantities.")
-        st.write(" Type 'ok' to confirm. Or adjust specific value use: ID1:Quantity1, ID2:Quantity2 ~ EX: 1:3, 2:4")
+        st.write(" Type 'ok' to confirm. Or adjust specific value use: ID1:Quan1, ID2:Quan2 ~ EX: 1:3, 2:4")
         if adjust:
             if adjust == "ok":
                 pass
